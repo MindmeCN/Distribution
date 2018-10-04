@@ -1,0 +1,19 @@
+{
+    "badge-award": "徽章",
+    "registration-decline": "注册拒绝",
+    "resource-create": "资源创建",
+    "resource-publish": "资源发布",
+    "resource-text": "文本",
+    "resource_creation_notification_message": "在课程空间 %workspace%  创建资源 %resource%",
+    "resource_publication_notification_message": "在课程空间 %workspace% 发布资源 %resource%",
+    "role-change_right": "资源访问",
+    "role-subscribe": "新注册",
+    "role-subscribe-queue": "注册到课程空间 %workspace%",
+    "role-subscribe_group": "分配您组角色 \"%role%\"",
+    "role-subscribe_user": "分配您用户角色 \"%role%\"",
+    "text_update_notification_message": "已变更课程空间 %workspace%  文本 \"%resource%\" ",
+    "workspace-registration-decline": "已拒绝课程空间 workspace 注册请求",
+    "workspace-role-change_right": "已给予您访问课程空间 %workspace% 资源 %resource% 权限",
+    "workspace-role-subscribe_group": "已分配您课程空间  %workspace% 角色 \"%role%\" ",
+    "workspace-role-subscribe_user": "assigned you the role of \"%role%\" in %workspace%"
+}

@@ -1,0 +1,8 @@
+{
+    "create_new_theme": "创建新主题",
+    "delete_theme_confirm": "确定要删除该样式表吗 ?",
+    "extend_default_theme": "扩展默认样式表",
+    "new_theme": "新建主题",
+    "stylesheet": "样式表",
+    "theme_dir_not_writable": "The directory \"web/themes\" is not writable. Custom themes cannot be created or deleted. Please change permissions for that directory to solve the issue."
+}

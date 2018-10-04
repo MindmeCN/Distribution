@@ -1,0 +1,4 @@
+{
+    "resource-innova_path-step_unlock": "请求为路径 %path% 解锁步骤 %step% ",
+    "resource-innova_path-step_unlockdone": "已为路径 %path% 解锁步骤 %step% "
+}

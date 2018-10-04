@@ -1,0 +1,5 @@
+{
+    "resource-icap_lesson-chapter_create": " 在 %lesson% 课件中已创建 %chapter% chapter",
+    "resource-icap_lesson-chapter_update": "在 %lesson% 课件中已更新 %chapter% chapter",
+    "resource-icap_lesson-user_tagged": "您已标签  %lesson% 课件中 %chapter% 章节的标签"
+}

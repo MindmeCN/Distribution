@@ -1,0 +1,5 @@
+{
+    "resource-icap_wiki-contribution_create": "已投稿到wiki %wiki% 的 %section%",
+    "resource-icap_wiki-section_create": "已在wiki %wiki% 创建 %section% 段",
+    "resource-icap_wiki-user_tagged": " 您的段 %section% 已在 wiki %wiki% 中标签"
+}

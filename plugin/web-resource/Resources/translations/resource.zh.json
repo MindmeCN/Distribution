@@ -1,0 +1,4 @@
+{
+    "claroline_web_resource": "Web资源",
+    "not_a_zip": "该文件必须是一个zip压缩文件，其中包 \"index.html\" or \"index.htm\" 文件."
+}

@@ -1,0 +1,8 @@
+{
+    "audio_recorder_configuration_max_recording_time": "最大录音时间 (秒, 0 = infinite)",
+    "audio_recorder_configuration_max_try": "最多录音次数",
+    "config_update_error": "更改录间配制是发生错误.",
+    "config_update_success": "录音配置更改成功.",
+    "innova_audio_recorder_tool": "录音配置 (全平台).",
+    "submit_config_label": "保存配置"
+}

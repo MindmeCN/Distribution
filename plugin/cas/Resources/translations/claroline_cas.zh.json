@@ -1,0 +1,15 @@
+{
+  "cas_active":"允许",
+  "cas_check_connexion_info":"确定要创建新的帐户或连接到一个存在的帐户?",
+  "cas_default_login": "默认登录 (登录表单下面的按钮)",
+  "cas_login_name":"名称 (在 \"连接\" 显示按钮)",
+  "cas_login_option":"登录选项",
+  "cas_login_url": "登录 URL",
+  "cas_logout_url": "退出 URL",
+  "cas_override_login ": "重载平台登录",
+  "cas_primary_login": "首选登录(从顶端的按钮登录)",
+  "cas_validation_url": "验证 URL",
+  "create_new_cas_account":"创建新的帐户",
+  "link_cas_to_account":"链接到存在的帐户",
+  "link_cas_to_account_mail":"链接到帐户: \"%mail%\""
+}

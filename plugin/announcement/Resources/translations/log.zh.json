@@ -1,0 +1,14 @@
+{
+    "log_resource-claroline_announcement_aggregate-create_filter": "创建公告",
+    "log_resource-claroline_announcement_aggregate-create_sentence": "已在资源 %resource% 中创建公告",
+    "log_resource-claroline_announcement_aggregate-create_shortname": "创建",
+    "log_resource-claroline_announcement_aggregate-create_title": "创建公告",
+    "log_resource-claroline_announcement_aggregate-delete_filter": "删除公告",
+    "log_resource-claroline_announcement_aggregate-delete_sentence": "已在 %resource% 中删除公告",
+    "log_resource-claroline_announcement_aggregate-delete_shortname": "删除",
+    "log_resource-claroline_announcement_aggregate-delete_title": "删除公告",
+    "log_resource-claroline_announcement_aggregate-edit_filter": "编辑公告",
+    "log_resource-claroline_announcement_aggregate-edit_sentence": "已在资源 %resource% 中编辑公告",
+    "log_resource-claroline_announcement_aggregate-edit_shortname": "编辑",
+    "log_resource-claroline_announcement_aggregate-edit_title": "编辑公告"
+}

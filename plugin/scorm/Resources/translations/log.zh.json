@@ -1,0 +1,10 @@
+{
+    "log_resource-scorm_12-sco_result_filter": "从SCO (SCORM 1.2)得到结果",
+    "log_resource-scorm_12-sco_result_sentence": "已从SCO在SCORM 1.2中的资源获得结果",
+    "log_resource-scorm_12-sco_result_shortname": "正在获取 SCO result",
+    "log_resource-scorm_12-sco_result_title": "SCO 结果",
+    "log_resource-scorm_2004-sco_result_filter": "从SCO (SCORM 2004)获取结果",
+    "log_resource-scorm_2004-sco_result_sentence": "已从SCOSCO 在SCORM 2004中的资源获得结果.",
+    "log_resource-scorm_2004-sco_result_shortname": "获取SCO结果",
+    "log_resource-scorm_2004-sco_result_title": "SCO结果"
+}

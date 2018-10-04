@@ -1,0 +1,8 @@
+{
+    "create": "创建",
+    "add_user": "新建用户",
+    "remove_user": "移除用户",
+    "delete": "删除用户",
+    "update": "变更用户",
+    "create_or_update": "创建或更新"
+}

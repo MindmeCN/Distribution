@@ -1,0 +1,18 @@
+{
+    "options_form_enable_text_transcription": "显示文本转录",
+    "options_form_tts_choices_de_DE": "德语",
+    "options_form_tts_choices_en_GB": "英语(GB)",
+    "options_form_tts_choices_en_US": "英语(US)",
+    "options_form_tts_choices_es_ES": "Spanish",
+    "options_form_tts_choices_fr_FR": "French法语",
+    "options_form_tts_choices_it_IT": "Italian",
+    "options_form_tts_language": "Text to speech language",
+    "options_form_view_mode": "Play mode播放方式",
+    "options_form_view_mode_choices_active": "Continuous active",
+    "options_form_view_mode_choices_free": "Free",
+    "options_form_view_mode_choices_live": "Continuous live",
+    "options_form_view_mode_choices_pause": "Continuous pause",
+    "options_form_view_mode_choices_scripted_active": "Scripted active脚本激活",
+    "options_panel_title": "资源选项",
+    "show_hide_options_panel": "显示/隐藏选项按钮"
+}

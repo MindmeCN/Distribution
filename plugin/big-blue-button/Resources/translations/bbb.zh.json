@@ -1,0 +1,23 @@
+{
+    "active_meetings": "激活会议",
+    "allow_record": "允许录音",
+    "bbb_configuration": "BigBlueButton配置",
+    "bbb_end": "强制结束BigBlueButton",
+    "bbb_not_configured_msg": "BigBlueButton未正确配置.请联系管理员.",
+    "bbb_params_saved_success_msg": "参数已保存。当房间活动时，它们不能被应用.",
+    "bbb_running_in_new_tab": "BigBlueButton正在其它选项卡运行.",
+    "bbb_server_url": "BigBlueButton服务器 URL",
+    "configuration_saved_error_msg": "保存配置时发生错误.",
+    "configuration_saved_success_msg": "配置已保存.",
+    "meeting_id": "会议 ID",
+    "meeting_name": "公文名称",
+    "nb_participants": "参加人员数量",
+    "open_bbb_in_new_tab": "在新的选项卡中打开 BigBlueButton",
+    "room_is_closed": "房间已关闭.",
+    "room_name": "房间名称",
+    "save_configuration": "保存配置",
+    "security_salt": "Security salt",
+    "wait_for_moderator": "等待主持人",
+    "waiting_for_moderator": "正在等待主持人...",
+    "welcome_message": "欢迎消息"
+}

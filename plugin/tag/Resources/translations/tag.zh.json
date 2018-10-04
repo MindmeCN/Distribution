@@ -1,0 +1,23 @@
+{
+    "Claroline\\CoreBundle\\Entity\\Group": "组",
+    "Claroline\\CoreBundle\\Entity\\Resource\\ResourceNode": "资源",
+    "Claroline\\CoreBundle\\Entity\\Role": "角色",
+    "Claroline\\CoreBundle\\Entity\\Tool\\AdminTool": "管理工具",
+    "Claroline\\CoreBundle\\Entity\\Tool\\OrderedTool": "工具",
+    "Claroline\\CoreBundle\\Entity\\Tool\\Tool": "工具",
+    "Claroline\\CoreBundle\\Entity\\User": "用户",
+    "Claroline\\CoreBundle\\Entity\\Workspace\\Workspace": "课程空间",
+    "delete_tag": "删除标签",
+    "no_tag": "无标签",
+    "number_of_tags": "标签数量",
+    "remove_tag": "移除标签",
+    "remove_tag_from_object_message": "确定要从对象中移队标签 ?",
+    "tag_action": "标签",
+    "tag_deletion": "标签删除",
+    "tag_deletion_message": "确定分移除这个标签吗 ?",
+    "tag_group": "标签该组",
+    "tag_resource": "标签此资源",
+    "tag_resource_help": "在这里输入您的标签 (使用逗号分隔).标签允许您通过搜索引擎快速查找资源.",
+    "tag_user": "标签此用户",
+    "tag_workspace": "标签该课程空间"
+}

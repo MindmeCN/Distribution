@@ -1,0 +1,8 @@
+{
+    "access_denied": "你不允许访问此网页.",
+    "client_error %errorCode%": "在客户端检测到一个错误。错误代码: %errorCode%.",
+    "method_not_allowed": "这个请求的方法是不允许的.",
+    "res_not_found": "未发现资源.",
+    "server_error %errorCode%": "在服务器端检测到一个错误。错误代码: %errorCode%.",
+    "website_doesnt_exist %url%": "网站 %url% 不存在."
+}

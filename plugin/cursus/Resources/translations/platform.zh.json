@@ -1,0 +1,13 @@
+{
+    "decline_registration": "拒绝注册",
+    "decline_registration_confirm_message": "确定要拒绝此用户注册吗 ?",
+    "next_session_registration_request": "请求注册到下一次课程",
+    "next_session_registration_request_cancel": "取消请求注册到下一次课程",
+    "next_session_registration_request_cancel_message": "确定要取消请求注册到下一次课程 ?",
+    "next_session_registration_request_message": "确定要注册到下一次课程确定要 ?",
+    "request_done": "请求完成",
+    "session_registration": "课程发布管理",
+    "session_self_registration_message": "确定要注册到此课程吗 ?",
+    "session_self_unregistration_message": "确定要取消注册到此课程吗 ?",
+    "session_unregistration": "课程注册取消"
+}

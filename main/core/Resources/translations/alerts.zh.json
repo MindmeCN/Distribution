@@ -1,0 +1,180 @@
+{
+  "generic": {
+    "pending": {
+      "title": "加载",
+      "message": "加载数据时请稍候."
+    },
+    "success": {
+      "title": "成功",
+      "message": ""
+    },
+    "warning": {
+      "title": "注意",
+      "message": ""
+    },
+    "unauthorized": {
+      "title": "未授权访问",
+      "message": "你必须登录才能访问."
+    },
+    "forbidden": {
+      "title": "访问拒绝",
+      "message": "你无权访问此模块."
+    },
+    "error": {
+      "title": "错误",
+      "message": "请联系管理员."
+    }
+  },
+  "load": {
+    "pending": {
+      "title": "正在加载",
+      "message": "加载数据时请稍候."
+    },
+    "error": {
+      "title": "加载失败",
+      "message": "你的数据无法加载."
+    }
+  },
+  "refresh": {
+    "pending": {
+      "title": "重新加载",
+      "message": "你的数据正在重新加载，请稍候."
+    },
+    "error": {
+      "title": "重新加载失败",
+      "message": "你的数据无法重新加载."
+    }
+  },
+  "save": {
+    "pending": {
+      "title": "正在保存",
+      "message": "正在保存你的数据，请稍候."
+    },
+    "success": {
+      "title": "成功保存",
+      "message": "数据已成功保存."
+    },
+    "warning": {
+      "title": "保存失败",
+      "message": "请更改错误的表单后重试."
+    },
+    "error": {
+      "title": "保存失败",
+      "message": "你的数据无法保存."
+    }
+  },
+  "create": {
+    "pending": {
+      "title": "正在创建",
+      "message": "保存数据时请稍候."
+    },
+    "success": {
+      "title": "创建成功",
+      "message": "你的数据已成功保存."
+    },
+    "warning": {
+      "title": "创建失败",
+      "message": "请修改错误后重试."
+    },
+    "error": {
+      "title": "创建失败",
+      "message": "你的数据无法保存."
+    }
+  },
+  "update": {
+    "pending": {
+      "title": "正在更新",
+      "message": "正在保存数据请稍候."
+    },
+    "success": {
+      "title": "成功更新",
+      "message": "数据已成功保存."
+    },
+    "warning": {
+      "title": "更新失败",
+      "message": "请修改错误后重试."
+    },
+    "error": {
+      "title": "更新失败",
+      "message": "你的数据无法保存."
+    }
+  },
+  "delete": {
+    "pending": {
+      "title": "正在删除",
+      "message": "正在删除数据请稍候."
+    },
+    "success": {
+      "title": "删除成功",
+      "message": "数据已删除."
+    },
+    "warning": {
+      "title": "删除警告",
+      "message": "一些数据可能无法被删除."
+    },
+    "error": {
+      "title": "删除失败",
+      "message": "数据无法被删除."
+    }
+  },
+  "send": {
+    "pending": {
+      "title": "正在发送",
+      "message": "正在发送请稍候."
+    },
+    "success": {
+      "title": "发送成功",
+      "message": "数据已成功发送."
+    },
+    "error": {
+      "title": "发送失败",
+      "message": "消息无法发送."
+    }
+  },
+  "upload": {
+    "pending": {
+      "title": "正在上传",
+      "message": "上传文件时请稍候."
+    },
+    "success": {
+      "title": "下载成功",
+      "message": "你的文件已成功下载."
+    },
+    "warning": {
+      "title": "下载失败",
+      "message": "使用支持的类型后重试."
+    },
+    "error": {
+      "title": "下载失败",
+      "message": "你的文件无法下载."
+    }
+  },
+  "publish": {
+    "pending": {
+      "title": "正在发布",
+      "message": "发布内容时请稍候."
+    },
+    "success": {
+      "title": "Successful publishing",
+      "message": "你的内容已成功发布且有效."
+    },
+    "error": {
+      "title": "发布失败",
+      "message": "发布内容失败."
+    }
+  },
+  "unpublish": {
+    "pending": {
+      "title": "取消发布正在进行",
+      "message": "取消发布时，请稍候."
+    },
+    "success": {
+      "title": "取消发布成工",
+      "message": "你的消息已正确取消发布且不再有效."
+    },
+    "error": {
+      "title": "取消发布失败",
+      "message": "取消你的内容发布失败."
+    }
+  }
+}

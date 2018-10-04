@@ -1,0 +1,10 @@
+{
+    "resource-icap_blog-comment-user_tagged": "在博客 \"%blog%\" 的帖子 \"%post%\" 中已提到您 ",
+    "resource-icap_blog-comment_create": "在博客 \"%blog%\" 的帖子 \"%post%\" 中已创建评论 ",
+    "resource-icap_blog-comment_publish": "在博客 \"%blog%\" 的帖子 \"%post%\" 中已发布一个评论 ",
+    "resource-icap_blog-comment_update": "在博客 \"%blog%\" 的帖子 \"%post%\" 中已更新一个评论 ",
+    "resource-icap_blog-post-user_tagged": "在有关博客 \"%blog%\" 帖子 \"%post%\" 的评论中已提到您 ",
+    "resource-icap_blog-post_create": "在博客 \"%blog%\" 已创建帖子 \"%post%\" ",
+    "resource-icap_blog-post_publish": "在博客 \"%blog%\" 已发布帖子 \"%post%\"",
+    "resource-icap_blog-post_update": "在博客 \"%blog%\" 已更新帖子 \"%post%\""
+}

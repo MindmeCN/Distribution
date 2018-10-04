@@ -1,0 +1,10 @@
+{
+    "agenda_": "即将来临的事件",
+    "agenda_task": "要做的任务",
+    "cant_modify_task": "您不能更改任务",
+    "mark_task_as_done": "标记此任务已完成",
+    "mark_task_as_not_done": "标记此任务未完成",
+    "next_events": "即将来临的事件",
+    "x_days_ago": "%nbDays% 天前",
+    "yesterday": "昨天"
+}

@@ -1,0 +1,14 @@
+{
+    "log.socialmedia.comment_action": "已在资源 %resource% 上评论",
+    "log.socialmedia.like_action": "喜欢 %resource%",
+    "log.socialmedia.share_action": "已在 %network%  分享 %resource% ",
+    "log_resource-icap_socialmedia-comment_action_filter": "评论",
+    "log_resource-icap_socialmedia-comment_action_shortname": "评论",
+    "log_resource-icap_socialmedia-comment_action_title": "评论",
+    "log_resource-icap_socialmedia-like_action_filter": "喜欢",
+    "log_resource-icap_socialmedia-like_action_shortname": "喜欢",
+    "log_resource-icap_socialmedia-like_action_title": "喜欢",
+    "log_resource-icap_socialmedia-share_action_filter": "分享",
+    "log_resource-icap_socialmedia-share_action_shortname": "分享分享",
+    "log_resource-icap_socialmedia-share_action_title": "分享"
+}

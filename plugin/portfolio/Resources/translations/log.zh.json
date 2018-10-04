@@ -1,0 +1,22 @@
+{
+    "log_portfolio-add_guide_filter": "为履历增加指南",
+    "log_portfolio-add_guide_shortname": "为履历增加指南",
+    "log_portfolio-add_guide_title": "为履历增加指南",
+    "log_portfolio-add_viewer_filter": "为履历增加用户访问",
+    "log_portfolio-add_viewer_shortname": "为履历增加用户访问",
+    "log_portfolio-add_viewer_title": "为履历增加用户访问",
+    "log_portfolio-remove_guide_filter": "正在移除履历指南",
+    "log_portfolio-remove_guide_shortname": "从履历移除指南",
+    "log_portfolio-remove_guide_title": "正在从履历移除指南",
+    "log_portfolio-view_filter": "履历的视图计数器增量",
+    "log_portfolio-view_shortname": "履历的视图计数器增量",
+    "log_portfolio-view_title": "履历的视图计数器增量",
+    "log_portfolio_added_guide": "指南访问已增加到履历",
+    "log_portfolio_added_viewer": "用户访问已增加到履历",
+    "log_portfolio_removed_guide": "已从履历移除指南",
+    "portfolio": "履历",
+    "portfolio-add_guide": "已在履历%portfolio% 指南列表中增加的指南 %guide% ",
+    "portfolio-add_viewer": "已从履历 %portfolio% 中移除的指南 %guide% ",
+    "portfolio-remove_guide": "已从履历 %portfolio% 指南列表中移除的指南 %guide% 。",
+    "portfolio-view": "已访问的履历 %portfolio%"
+}

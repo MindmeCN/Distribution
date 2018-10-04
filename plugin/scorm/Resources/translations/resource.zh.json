@@ -1,0 +1,18 @@
+{
+    "cannot_load_imsmanifest_message": "无法加载 \"imsmanifest.xml\" 文件",
+    "claroline_scorm_12": "课程导入【Scorm (1.2)】",
+    "claroline_scorm_12_resource": "【课程导入Scorm (1.2)】",
+    "claroline_scorm_2004": "课程导入【Scorm (2004)】",
+    "claroline_scorm_2004_resource": "课程导入【Scorm (2004)】",
+    "default_organization_not_found_message": "未发现在 \"imsmanifest.xml\" 定义的默认组织.",
+    "invalid_scorm_archive_message": "文件必须是 .ZIP 压缩文件，在根目录存在 \"imsmanifest.xml\" 文件.",
+    "invalid_scorm_version_12_message": "Scorm版本 在 \"imsmanifest.xml\" 文件中必须定义为 \"1.2\".",
+    "invalid_scorm_version_2004_message": "Scorm 版本 在  \"imsmanifest.xml\" 文件中必须定义为 \"CAM 1.3\" 、 \"2004 3rd Edition\" 和 \"2004 4th Edition\".",
+    "no_sco_in_scorm_archive_message": " SCO未在 \"imsmanifest.xml\" 中定义",
+    "quit": "退出",
+    "sco_resource_without_href_message": "SCO在 \"imsmanifest.xml\" 中附件为空资源",
+    "sco_with_no_identifier_message": "SCO在 \"imsmanifest.xml\" 无身份认证",
+    "sco_without_resource_message": "SCO在 \"imsmanifest.xml\" 中附件无资源.",
+    "scorm_form_file": "文件",
+    "scorm_form_name": "名称"
+}

@@ -1,0 +1,4 @@
+{
+    "forum": "论坛",
+    "resource-claroline_forum-create_message": "论坛上发布了一条新消息 <a href=\"%url%\"> %forum% </a>"
+}

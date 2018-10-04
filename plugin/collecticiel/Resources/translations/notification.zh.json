@@ -1,0 +1,7 @@
+{
+    "resource-innova_collecticiel-correction_report": "在 %dropzone% 中报告一个批改 ",
+    "resource-innova_collecticiel-drop_end": "在 %dropzone% 已经下载了文档",
+    "resource-innova_collecticiel-drop_grade_available": "您的副本已经批改, 您在 %dropzone% 中的有效分数为",
+    "resource-innova_collecticiel-drop_report": "在 %dropzone% 执行一个副本",
+    "resource-innova_collecticiel-dropzone_manual_state_changed": " %dropzone% 当前的路径已被改变为 %newState%"
+}

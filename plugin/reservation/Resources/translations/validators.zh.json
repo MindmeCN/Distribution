@@ -1,0 +1,17 @@
+{
+    "bad_file_extension": "文件扩展名无效，请选择.csv文件.",
+    "double_resource_for_one_resource_type": "行 #%lineNb1% 和 #%lineNb2% 包含同一资源的相同资源类型.请使用不同的资源名称.",
+    "invalid_color_format": " 在行 #%lineNb%. 的颜色值 \"color\" 必须使用 .hex 格式. ",
+    "invalid_column_headers": "文件中未发现列名 %columnName% .",
+    "invalid_number_characters_localisation": "在 \"localization\" 列字符串最小2最大225. 行号： #%lineNb%.",
+    "invalid_number_characters_name": "在 \"name\" 列字符串最小2最大50. 行号：#%lineNb%.",
+    "invalid_number_characters_resource_type": "在 \"resource_type\" 列字符串最小2最大50. 行号：#%lineNb%.",
+    "invalid_number_of_column": "行号：#%lineNb% 必须为7列.",
+    "invalid_number_quantity": "在 \"quantity\" 列最小值必须为1. 行号：#%lineNb%.",
+    "invalid_type_for_max_time_reservation": "在 \"max_time_reservation\" 列使用格式 hh:mm 或 hh:mm:ss . 行号：#%lineNb%.",
+    "number_reservations_exceeded": "你已经超过了这个资源预订数量。请更改日期或资源.",
+    "resource_already_exists_for_resource_type": "这个资源类型的资源名称已存在. 行 #%lineNb%.",
+    "valid_date_range_required": "开始日期不能先于或等于开始日期.",
+    "valid_duration_format_required": "保留时间格式无效. 请使用格式 hh:mm.",
+    "valid_max_duration_required": "你已经超过了这个资源的最大保留时间."
+}

@@ -1,0 +1,12 @@
+{
+    "core_resource_logger": "核心资源记录",
+    "my_profile": "我的档案",
+    "my_workspaces": "我的课程空间",
+    "resources_widget": "资源列表",
+    "resource_text": "资源文本",
+    "simple_text": "简单文本",
+    "type": "类型",
+    "widget_configuration_copy_warning": "正在拷贝自由微件 <%widgetInstanceName%> 配置时发生错误",
+    "widget_instance_form_name": "名称",
+    "widget_instance_form_widget": "类型"
+}

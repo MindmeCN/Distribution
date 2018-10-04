@@ -1,0 +1,7 @@
+{
+    "resource-icap_dropzone-correction_report": "已在 %dropzone% 报告一个批改",
+    "resource-icap_dropzone-drop_end": "已在 %dropzone% 作了一次下载",
+    "resource-icap_dropzone-drop_grade_available": "您的副本已经被修改, 您的成绩在 %dropzone% 中已经有效",
+    "resource-icap_dropzone-drop_report": "在 %dropzone% 中已报告了一个副本",
+    "resource-icap_dropzone-dropzone_manual_state_changed": " %dropzone% 的当前状态已改变为 %newState%"
+}

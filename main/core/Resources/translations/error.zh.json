@@ -1,0 +1,5 @@
+{
+    "insufficient_permissions": "权限不足.",
+    "invalid_move": "无法移除当前所在目录.",
+    "recursivity_not_supported": "递归移除不被支持."
+}

@@ -1,0 +1,12 @@
+{
+    "add_to_favourite": "确定要将资源加入收藏夹吗 ?",
+    "add_to_favourite_btn": "加入收藏",
+    "add_to_favourite_error": "该资源已收藏，确定要移除它吗 ?",
+    "favourite": "收藏夹",
+    "hevinci_favourite_widget": "收藏夹资源",
+    "remove_from_favourite": "确定要从资源中移称资源吗 ?",
+    "remove_from_favourite_btn": "从收藏夹中移除",
+    "remove_from_favourite_error": "此资源不在收藏夹中，确定要收藏吗 ?",
+    "remove_from_favourite_star": "从收藏夹中移除",
+    "widget_no_favourite": "还没有收藏夹."
+}

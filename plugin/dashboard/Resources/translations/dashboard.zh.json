@@ -1,0 +1,21 @@
+{
+    "back_to_list": "返回仪表板列表",
+    "click_to_add_view": "点击创建视图",
+    "connection_time": "连接时间",
+    "delete_view": "删除此视图",
+    "edit_dashboard_title": "编辑仪表版",
+    "edit_view": "编辑此视图",
+    "message_no_views": "现在还没有视图. 请点击 + 按钮创建.",
+    "new_dashboard_name_placeholder": "输入新的视图名称",
+    "new_dashboard_step_1": "1. 在那个课程空间应用此视图 ?",
+    "new_dashboard_title": "新视图创建",
+    "no_result_for_query": "查询未返回结果",
+    "selection": "选择",
+    "share_view": "分享这个视图",
+    "view": "视图",
+    "view_name": "视图名称",
+    "workspace_name": "课程空间名称",
+    "workspace_select": "课程空间选择",
+    "workspaces_filter_attended": "我订阅的课程空间",
+    "workspaces_filter_my": "作为我的课程空间管理员"
+}

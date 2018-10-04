@@ -1,0 +1,7 @@
+{
+    "config_update_error": "视频录像配置变更时出现问题.",
+    "config_update_success": "视频录像配置成功更新.",
+    "innova_video_recorder_tool": "视频录像配置 (本平台)",
+    "submit_config_label": "保存配置",
+    "video_recorder_configuration_max_recording_time": "最大记录时间（秒，0 =无限）"
+}

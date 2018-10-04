@@ -1,0 +1,9 @@
+{
+    "Each value must be unique.": "值必须唯一.",
+    "This ability does not exist.": "资质不存在.",
+    "framework_import.conflict_issue": "框架中的数据和存在的数据冲突.",
+    "framework_import.data_issue": "框架的一些数据不一致.",
+    "framework_import.json_issue": "文件不能被解析. 请检查JSON文件.",
+    "framework_import.original_error": "错误 : %msg%",
+    "framework_import.schema_issue": "文件中的数据不能满足框架的要求."
+}
